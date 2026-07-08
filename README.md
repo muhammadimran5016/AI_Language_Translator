@@ -140,4 +140,12 @@ streamlit run app.py
 
 ---
 
+---
 
+## 📄 License
+
+This project is developed for **educational**, **learning**, and **portfolio demonstration** purposes.
+
+---
+
+⭐ If you found this project helpful, please consider giving it a **Star** on GitHub.
