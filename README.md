@@ -59,7 +59,7 @@ AI_Language_Translator/
     ├── cards.py
     ├── translator_ui.py
     └── footer.py
-```
+
 
 
 
@@ -140,10 +140,4 @@ streamlit run app.py
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
-It is developed as an educational and portfolio project to demonstrate Python, Streamlit, and AI integration skills.
-
-⭐ If you like this project, consider giving it a Star on GitHub!
